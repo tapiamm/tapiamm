@@ -8,7 +8,7 @@ I'm a chemist and researcher specialized in materials science, currently expandi
 
 ## 📁 Selected Projects
 
-- 🔍 Climate Crisis Data Analysis(https://github.com/yourusername/project-name) ](https://github.com/Adalab/project-da-promo-50-modulo-4-team-4.git) 
+- 🔍 Climate Crisis Data Analysis (https://github.com/Adalab/project-da-promo-50-modulo-4-team-4.git) 
 
 ## 📫 Connect with me
 
