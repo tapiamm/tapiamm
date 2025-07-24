@@ -17,10 +17,19 @@ I'm a chemist and researcher specialized in materials science, currently expandi
 
 ---
 
-## 📊 Featured Projects
+## 📊 Featured Projects (Core Field)
 
 - 🌍 [Climate Crisis Data Analysis](https://github.com/Adalab/project-da-promo-50-modulo-4-team-4.git)
-  _Exploratory data analysis and visualizations on CO₂ emissions, global temperature trends, and their connection._
+Participated in a multidisciplinary team to analyze and visualize climate change indicators from four critical perspectives: sea level rise, agricultural economic impact, deforestation, and CO₂ emissions.
+Led the data preparation phase using Python — including cleaning, handling missing values, renaming, filtering by dates and countries — to ensure data quality and consistency.
+Developed interactive dashboards with Power BI to translate complex datasets into accessible visual stories, enabling stakeholders to grasp key climate trends.
+This project demonstrates my ability to work collaboratively on large datasets, apply data wrangling and visualization techniques, and communicate scientific insights effectively to diverse audiences.
+
+## 🌐 Additional Projects (Data Analysis Outside Core Field)
+- ✈️ [Customer & Flight Activity Analysis:](https://github.com/Adalab/bda-modulo-3-evaluacion-final-tapiamm.git)
+End-to-end data exploration, cleaning, visualization, and statistical analysis of a flight loyalty program dataset using Python. Developed custom ETL functions for efficient data processing and applied advanced visualization tools (matplotlib, seaborn) to extract actionable insights about customer behavior.
+Conducted hypothesis testing (Kruskal-Wallis) to evaluate the effect of education level on flight bookings, showcasing my ability to combine statistical rigor with practical business questions.
+This project highlights my data skills applied beyond my core field, demonstrating adaptability and a strong analytical mindset.
 
 ## 🧬 Background
 
