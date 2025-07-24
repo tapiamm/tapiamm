@@ -30,7 +30,7 @@ My role bridges experimental work and data-driven process optimization.
 ---
 
 ## 📫 Let's connect
-- [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-tapia-1639b21b4/)
+- [LinkedIn](https://www.linkedin.com/in/maría-tapia-1639b21b4)
 - [GitHub](https://github.com/tapiamm)
 
 
